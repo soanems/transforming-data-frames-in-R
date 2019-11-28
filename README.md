@@ -1,2 +1,2 @@
-# transforming-data-frames-in-R
+# Transforming data frames in R
 Appending complex data frames using R
